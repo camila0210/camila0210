@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hola, soy María Camila Aristizábal 👋
+
+- 🎓 Estudiante de la Maestría en Ciencia de Datos — UPB
+- 💻 Actualmente aprendiendo Ciencia de Datos en Producción
+- 🌱 Intereses: Análisis de datos, Sistemas de información, Bases de datos
+- 📫 Cómo contactarme: aristizabalcamila9@gmail.com
